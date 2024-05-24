@@ -1,0 +1,6 @@
+Pillow==10.3.0
+ipykernel
+resource==0.2.1
+tensorflow-datasets==4.9.3
+tfds-nightly==4.9.4.dev202405230936
+

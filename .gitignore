@@ -1,0 +1,7 @@
+data/train
+data/test
+models
+env
+.vscode
+*cpython*
+*.ipynb_checkpoints
